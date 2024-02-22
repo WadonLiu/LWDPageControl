@@ -1,0 +1,6 @@
+framework module LWDPageControl {
+  umbrella header "LWDPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

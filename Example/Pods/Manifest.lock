@@ -1,0 +1,16 @@
+PODS:
+  - LWDPageControl (0.1.0)
+
+DEPENDENCIES:
+  - LWDPageControl (from `../`)
+
+EXTERNAL SOURCES:
+  LWDPageControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LWDPageControl: 4f1c9109fe4ee58c1619a3cc40294c3060c468ca
+
+PODFILE CHECKSUM: c782c774941341e8fdfcabae096eea0b2c53b48d
+
+COCOAPODS: 1.11.3
