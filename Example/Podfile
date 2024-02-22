@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'LWDPageControl_Example' do
+  pod 'LWDPageControl', :path => '../'
+
+  target 'LWDPageControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
